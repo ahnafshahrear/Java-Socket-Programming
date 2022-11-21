@@ -17,7 +17,6 @@ public class SocketServer
             {
                 String msg = dataInputStream.readUTF();
                 System.out.println("Message from client: " + msg);
-                Thread.sleep(100);
                 dataOutputStream.writeUTF("Message successfully received");
                 if (msg.compareTo("End") == 0) 
                 {
