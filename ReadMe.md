@@ -1,15 +1,8 @@
-# Computer Network Lab 
-## 3rd Year 1st Semester
+## Computer Networks Lab
+- **[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear)**
+- **Computer Science & Engineering, University of Rajshahi**
+- **Code: `CSE-3152`**
 
-## Author
-
-- [@ahnafshahrear](https://github.com/ahnafshahrear)
-
-## Language
-
-- Java
-
-## Appendix
-
-1. Server & Client using Socket
-2. Mail sending using Smtp
+## Lab Tasks
+- **Write a Java program to implement Server & Client using Java Socket Programming**
+- **Write a Java program to send an eMail using an SMTP server**
